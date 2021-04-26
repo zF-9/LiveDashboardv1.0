@@ -1,5 +1,5 @@
-
-
+css/style.css
+<link rel="stylesheet" type="text/css" href="css/style.css">
 # Attendance CMCO App / Covid-19 Case Report Dashboard
 
 
